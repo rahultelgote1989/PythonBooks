@@ -1,2 +1,8 @@
 ### links for pandas:
 http://www.dataschool.io/best-python-pandas-resources/
+https://chatbotslife.com/pandas-learning-resources-946540ba574e
+https://tomaugspurger.github.io/modern-1-intro.html
+http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en
+https://www.dataquest.io/blog/pandas-python-tutorial/
+https://www.safaribooksonline.com/library/view/learning-pandas/9781783985128/ch07.html

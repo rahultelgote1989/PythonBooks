@@ -6,3 +6,4 @@ http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en
 https://www.dataquest.io/blog/pandas-python-tutorial/
 https://www.safaribooksonline.com/library/view/learning-pandas/9781783985128/ch07.html
+https://github.com/TomAugspurger/PracticalPandas/tree/master/data
